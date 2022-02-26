@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dishant-yadav
 - 👀 I’m interested in web development , mobile development and UI/UX
 - 🌱 I’m currently learning web development and DSA in Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 Mail ID : dishantyadav599@gmail.com
 
 <!---
