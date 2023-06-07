@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on **Snippet Manager**
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning backend devlopement with **Node.Js**
 
 - 👯 I’m looking to collaborate on **Geofencing Attendance Tracker**
 
-- 👨‍💻 All of my projects are available at [https://www.dishantyadav.me](https://www.dishantyadav.me)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://www.dishantyadav.me)
 
-- 📝 I regularly write articles on [https://hashnode.com/@dishantyadav](https://hashnode.com/@dishantyadav)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@dishantyadav)
 
 - 💬 Ask me about **React, React Native and Redux**
 
 - 📫 How to reach me **dishantyadav599@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ux_IXH7HC3o2ZF4je4CggFcr4K6RQk_G/view?usp=sharing](https://drive.google.com/file/d/1ux_IXH7HC3o2ZF4je4CggFcr4K6RQk_G/view?usp=sharing)
+- 📄 You can view my resume and learn about my experience [here](https://drive.google.com/file/d/1ux_IXH7HC3o2ZF4je4CggFcr4K6RQk_G/view?usp=sharing)
 
 - ⚡ Fun fact **Coding is like solving puzzles in a digital world, where every line of code is a piece that brings the bigger picture together. It's a thrilling journey of logic, creativity, and problem-solving that keeps developers hooked and constantly curious.**
 
