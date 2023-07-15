@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning backend devlopement with **Node.Js**
 
-- 👯 I’m looking to collaborate on **Geofencing Attendance Tracker**
-
 - 👨‍💻 All of my projects are available at my [Portfolio](https://www.dishantyadav.me)
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@dishantyadav)
