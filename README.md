@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dishantyadav599@gmail.com**
 
-- 📄 You can view my resume and learn about my experience [here](https://drive.google.com/file/d/1ux_IXH7HC3o2ZF4je4CggFcr4K6RQk_G/view?usp=sharing)
+- 📄 You can view my resume and learn about my experience [here](https://www.shorturl.at/Yrva4)
 
 - ⚡ Fun fact **Coding is like solving puzzles in a digital world, where every line of code is a piece that brings the bigger picture together. It's a thrilling journey of logic, creativity, and problem-solving that keeps developers hooked and constantly curious.**
 
