@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Snippet Manager**
 
-- 🌱 I’m currently learning backend devlopement with **Node.Js**
-
 - 👨‍💻 All of my projects are available at my [Portfolio](https://www.dishantyadav.me)
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@dishantyadav)
