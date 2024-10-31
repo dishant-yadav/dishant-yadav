@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dishant Yadav</h1>
+<h1 align="left">Hi 👋, I'm Dishant Yadav</h1>
 
 # 💫 About Me:
 A passionate software developer focused on solving real-world challenges through technology. I specialize in Python, React Native and Django with experience building scalable applications, backend APIs, and AI-driven projects. I'm always eager to learn, innovate, and contribute to impactful solutions. Let's build something great together! 🚀</h4>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dishant-yadav) 
