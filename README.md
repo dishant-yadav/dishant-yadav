@@ -15,16 +15,11 @@ Passionate software developer focused on solving real-world challenges with tech
 <p><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,tailwind,materialui,django,fastapi,nodejs,expressjs,mysql,mongodb,java,python,vscode,postman,git,github,npm,linux,docker,aws&perline=8" ></p>
 
 ### 📊 GitHub Stats:
-
-<table>
-  <tr>
-    <td>
+<p align="left">
+  <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=dishant-yadav&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-yadav&theme=merko&hide_border=false" alt="GitHub Streak Stats">
-    </td>
-  </tr>
-</table>
-
+  </a>
+ </p>  
+ 
 ---
